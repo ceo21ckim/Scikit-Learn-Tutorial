@@ -1,1 +1,1 @@
-$$\Sigma_i^j$$
+# Ridge Regression and Classification
