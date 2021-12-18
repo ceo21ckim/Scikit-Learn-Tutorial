@@ -1,1 +1,1 @@
-$\Sigma_i^j$
+$$\Sigma_i^j$$
