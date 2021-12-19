@@ -1,1 +1,0 @@
-# Ridge Regression and Classification
