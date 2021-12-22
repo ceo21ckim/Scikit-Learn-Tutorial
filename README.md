@@ -14,3 +14,7 @@ Ridge Regression and Classification : [Ridge][ridgelink]
 Lasso : [Lasso][lassolink]
 
 [lassolink]: https://github.com/ceo21ckim/scikit-learn/tree/main/1.%20Supervised%20learning/3.%20Lasso
+
+Multi Task Lass : [Multi Task Lass][mtllink]
+
+[mtllink]: https://github.com/ceo21ckim/scikit-learn/blob/main/1.%20Supervised%20learning/4.%20Multi-task%20Lasso/joint%20feature%20selection%20with%20multi-task%20Lasso.py
