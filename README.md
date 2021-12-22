@@ -18,3 +18,7 @@ Lasso : [Lasso][lassolink]
 Multi Task Lass : [Multi Task Lass][mtllink]
 
 [mtllink]: https://github.com/ceo21ckim/scikit-learn/blob/main/1.%20Supervised%20learning/4.%20Multi-task%20Lasso/joint%20feature%20selection%20with%20multi-task%20Lasso.py
+
+Elastic Net : [Elastic Net][enetlink]
+
+[enetlink]: https://github.com/ceo21ckim/scikit-learn/blob/main/1.%20Supervised%20learning/5.%20Elastic%20Net/elastic%20net.py
