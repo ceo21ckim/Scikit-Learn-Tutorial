@@ -5,4 +5,4 @@
 
 ## Evaluation of the ranking power
 
-![image](https://user-images.githubusercontent.com/60685175/147192909-bd0aa966-5e8d-47af-8937-47b8e00914e2.png)
+![image](https://user-images.githubusercontent.com/60685175/147193020-027e7cb6-1db9-4bdf-aa94-4200547bc518.png)
