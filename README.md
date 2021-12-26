@@ -30,3 +30,7 @@ Bayesian Regression : [Bayesian Regression][bsrlink]
 Logistic Regression : [Logistic Regression][lglink]
 
 [lglink]: https://github.com/ceo21ckim/scikit-learn/tree/main/1.%20Supervised%20learning/7.%20Logistic%20Regression
+
+[Generalized Linear Regression] : [GLM][glmlink]
+
+[glmlink]: https://github.com/ceo21ckim/scikit-learn/tree/main/1.%20Supervised%20learning/8.%20Generalized%20Linear%20Regression
