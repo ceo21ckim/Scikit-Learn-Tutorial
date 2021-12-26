@@ -22,3 +22,7 @@ Multi Task Lass : [Multi Task Lass][mtllink]
 Elastic Net : [Elastic Net][enetlink]
 
 [enetlink]: https://github.com/ceo21ckim/scikit-learn/blob/main/1.%20Supervised%20learning/5.%20Elastic%20Net/elastic%20net.py
+
+Bayesian Regression : [Bayesian Regression][bsrlink]
+
+[bsrlink]: https://github.com/ceo21ckim/scikit-learn/tree/main/1.%20Supervised%20learning/6.%20Bayesian%20Regression
