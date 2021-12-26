@@ -23,11 +23,11 @@ Elastic Net : [Elastic Net][enetlink]
 
 [enetlink]: https://github.com/ceo21ckim/scikit-learn/blob/main/1.%20Supervised%20learning/5.%20Elastic%20Net/elastic%20net.py
 
-Bayesian Regression : [Bayesian Regression][bsrlink]
+Bayesian Regression : [Bayesian][bsrlink]
 
 [bsrlink]: https://github.com/ceo21ckim/scikit-learn/tree/main/1.%20Supervised%20learning/6.%20Bayesian%20Regression
 
-Logistic Regression : [Logistic Regression][lglink]
+Logistic Regression : [Logistic][lglink]
 
 [lglink]: https://github.com/ceo21ckim/scikit-learn/tree/main/1.%20Supervised%20learning/7.%20Logistic%20Regression
 
