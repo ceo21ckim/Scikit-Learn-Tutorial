@@ -34,4 +34,3 @@ Logistic Regression : [Logistic][lglink]
 Generalized Linear Regression : [GLM][glmlink]
 
 [glmlink]: https://github.com/ceo21ckim/scikit-learn/tree/main/1.%20Supervised%20learning/8.%20Generalized%20Linear%20Regression
-.
