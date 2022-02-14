@@ -37,7 +37,7 @@ Generalized Linear Regression : [GLM][glmlink]
 
 
 
-## Supervised Learning 
+## Unsupervised Learning 
 
 Gauusian Mixture Models : [GMM][gmmlink]
 
