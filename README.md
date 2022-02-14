@@ -39,3 +39,6 @@ Generalized Linear Regression : [GLM][glmlink]
 
 ## Supervised Learning 
 
+Gauusian Mixture Models : [GMM][gmmlink]
+
+[gmmlink]: https://github.com/ceo21ckim/scikit-learn/tree/main/2.%20Unsuperviesd%20learning/1.%20Gaussian%20mixture%20models 
