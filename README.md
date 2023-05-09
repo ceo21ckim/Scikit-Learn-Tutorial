@@ -1,5 +1,28 @@
 # scikit-learn
 
+```
+├── Practice
+│   ├── Importance of Feature Scaling
+│   ├── Multi-metric Evaluation
+│   ├── Permutation Feature Importance
+│   └── RocCurve and DETCurve
+│
+├── Supervised Learning
+│   ├── Ordinary Least Squares
+│   ├── Ridge Regression and Classification
+│   ├── Lasso
+│   ├── Multi-task Lasso
+│   ├── Elastic Net
+│   ├── Baysian Regression
+│   ├── Logistic Regression
+│   └── Generalized Linear Regression
+│
+├── Unsupervised Learning
+│
+└── README.md
+```
+
+
 ## Supervised Learning 
 
 Ordinary Least Squares : [OLS][OLSLINK]
